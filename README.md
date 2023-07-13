@@ -1,6 +1,6 @@
 ### Hi there 👋
-# 💫 About Me:
-<br>🌱 I’m currently learning Android<br>💬 Ask me about C<br>📫 How to reach me sandymuthukutti@gmail.com<br>
+# 💫 Iam Santhiya
+<br>🌱 I’m currently learning Java Script<br>💬 Ask me about C<br>📫 How to reach me sandymuthukutti@gmail.com<br>
 
 
 ## 🌐 Socials:
