@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently working as **Junior Software Engineer – Embedded Linux** at **iWave System Technologies, Chennai**
+- 🔭 Currently working as **Junior Software Engineer – Embedded Linux** 
 - 🌱 Currently learning **FreeRTOS, Linux Device Drivers, Embedded C, Computer Networks**
 - 💬 Ask me about **Embedded Linux, Yocto, PetaLinux, U-Boot, Device Tree, UART, I2C**
 - 📫 Reach me at **sandymuthukutti@gmail.com**
