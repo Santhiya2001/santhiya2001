@@ -2,9 +2,9 @@
 <h3 align="center">Embedded Linux Engineer | BSP Developer </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=santhiya2001&label=Profile%20views&color=0f3460&style=flat" alt="santhiya2001" />
+ 
   <img src="https://img.shields.io/badge/Experience-1.5%20Years-blue?style=flat" />
-  <img src="https://img.shields.io/badge/Location-Chennai%2C%20India-green?style=flat" />
+ 
 </p>
 
 ---
