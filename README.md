@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Santhiya</h1>
-<h3 align="center">Embedded Linux Engineer | BSP Developer | iWave System Technologies</h3>
+<h3 align="center">Embedded Linux Engineer | BSP Developer </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=santhiya2001&label=Profile%20views&color=0f3460&style=flat" alt="santhiya2001" />
@@ -51,7 +51,6 @@
 ## 💼 Work Experience
 
 ```
-🏢 iWave System Technologies — Chennai
 📌 Junior Software Engineer – Embedded Linux
 📅 Jan 2024 – Present
 
