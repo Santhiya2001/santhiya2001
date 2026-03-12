@@ -1,29 +1,146 @@
 <h1 align="center">Hi 👋, I'm Santhiya</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Embedded Linux Engineer | BSP Developer | iWave System Technologies</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=santhiya2001&label=Profile%20views&color=0e75b6&style=flat" alt="santhiya2001" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=santhiya2001" alt="santhiya2001" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 💬 Ask me about **C | Java | HTML | CSS**
-
-- 📫 How to reach me **sandymuthukutti@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/santhiya2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/santhiya2001" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=santhiya2001&label=Profile%20views&color=0f3460&style=flat" alt="santhiya2001" />
+  <img src="https://img.shields.io/badge/Experience-1.5%20Years-blue?style=flat" />
+  <img src="https://img.shields.io/badge/Location-Chennai%2C%20India-green?style=flat" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+---
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/Santhiya2001"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Santhiya2001" /></a></p><br><br>
+## 🚀 About Me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=santhiya2001&show_icons=true&locale=en&layout=compact" alt="santhiya2001" /></p>
+- 🔭 Currently working as **Junior Software Engineer – Embedded Linux** at **iWave System Technologies, Chennai**
+- 🌱 Currently learning **FreeRTOS, Linux Device Drivers, Embedded C, Computer Networks**
+- 💬 Ask me about **Embedded Linux, Yocto, PetaLinux, U-Boot, Device Tree, UART, I2C**
+- 📫 Reach me at **sandymuthukutti@gmail.com**
+- ⚡ Fun fact: I debug boards at FSBL, U-Boot and Kernel level — layer by layer! 🐧
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santhiya2001&show_icons=true&locale=en" alt="santhiya2001" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=santhiya2001&" alt="santhiya2001" /></p>
+## 🛠️ Technical Skills
+
+### Embedded Linux & BSP
+![Embedded Linux](https://img.shields.io/badge/Embedded%20Linux-BSP%20Development-informational?style=flat&color=0f3460)
+![Yocto](https://img.shields.io/badge/Yocto-Build%20System-informational?style=flat&color=0f3460)
+![PetaLinux](https://img.shields.io/badge/PetaLinux-Build%20SDK-informational?style=flat&color=0f3460)
+![U-Boot](https://img.shields.io/badge/U--Boot-Bootloader-informational?style=flat&color=0f3460)
+![Device Tree](https://img.shields.io/badge/Device%20Tree-.dts%20%2F%20.dtb-informational?style=flat&color=0f3460)
+![Kernel Modules](https://img.shields.io/badge/Kernel%20Modules-.ko%20Driver%20Debug-informational?style=flat&color=0f3460)
+
+### Communication Protocols
+![UART](https://img.shields.io/badge/UART-115200%20Baud-success?style=flat)
+![I2C](https://img.shields.io/badge/I2C-Master%2FSlave-success?style=flat)
+![SPI](https://img.shields.io/badge/SPI-Protocol-success?style=flat)
+![GPIO](https://img.shields.io/badge/GPIO-Controller-success?style=flat)
+
+### Tools & Platforms
+![Linux](https://img.shields.io/badge/Linux-Xilinx%20Zynq-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=flat&logo=git&logoColor=white)
+![Minicom](https://img.shields.io/badge/Minicom-Serial%20Terminal-gray?style=flat)
+![JTAG](https://img.shields.io/badge/JTAG-Hardware%20Debug-gray?style=flat)
+
+### Programming Languages
+![C](https://img.shields.io/badge/C-Embedded-A8B9CC?style=flat&logo=c&logoColor=black)
+![Shell](https://img.shields.io/badge/Shell-Scripting-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+
+---
+
+## 💼 Work Experience
+
+```
+🏢 iWave System Technologies — Chennai
+📌 Junior Software Engineer – Embedded Linux
+📅 Jan 2024 – Present
+
+✅ Embedded Linux boot flow: FSBL → U-Boot → Device Tree → Kernel → RootFS
+✅ Device Tree (.dts/.dtb) configuration for I2C, SPI, GPIO, PCIe, PL interfaces
+✅ Yocto & PetaLinux build systems — custom .bb recipe writing
+✅ Kernel module loading (insmod/modprobe) & driver debugging
+✅ UART (115200 baud) board-to-PC communication via Minicom
+✅ I2C master-slave communication — up to 127 slave devices
+✅ SD card & eMMC boot mode configuration and validation
+✅ Boot issue debugging at FSBL (PMIC), U-Boot (reset), Kernel (driver) levels
+```
+
+---
+
+## 🔬 Projects
+
+### 🔧 Embedded Linux BSP – Xilinx Zynq Platform
+> **Role:** BSP Engineer | iWave System Technologies
+- Developed and maintained Board Support Package for Zynq-based carrier cards
+- Customized U-Boot for SD/eMMC boot selection
+- Modified Device Tree nodes for custom PL (FPGA) peripherals
+- Built production Linux images using PetaLinux with custom packages
+
+### 🔧 GPIO & Reset Controller Driver Debugging
+> **Role:** Embedded Linux Developer | iWave System Technologies
+- Resolved GPIO controller initialization failures during kernel boot
+- Added reset sequence in driver to fix board hang at U-Boot stage
+- Validated fix across multiple board revisions using UART debug logs
+
+### 📱 Travel AR – AR Mobile Application *(Academic)*
+> **Tech:** Flutter | Firebase | Blender
+- Built AR-based travel app with 3D maps, AI translator, and trip planner
+- 🏆 Won **1st Prize** in Project Presentation (₹25K Cash Prize)
+
+### 📸 Photography Portfolio System *(Academic)*
+> **Tech:** HTML | CSS | PHP | MySQL | XAMPP
+- Designed portfolio management system with advanced clustering algorithm
+- Secure client-admin photo management environment
+
+---
+
+## 📚 Currently Learning
+
+```
+🔄 FreeRTOS          — Task creation, Semaphore, Queue, inter-task communication
+🔄 Embedded C        — Pointers, volatile/const, memory-mapped registers
+🔄 Computer Networks — OSI model, TCP/IP, Socket programming in C
+🔄 Linux Drivers     — Character drivers, Platform drivers
+```
+
+---
+
+## 🏆 Achievements
+
+- 🥇 **1st Prize** – Project Presentation Competition (₹25K Cash Prize)
+- 🥈 **2nd Prize** – StartupTN Idea Hack Fest (Team Lead of 5 members)
+- 🥇 **1st Place** – 4x100m Relay
+- 🥈 **Runner-up** – Annual Sports Meet (Chess)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=santhiya2001&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="santhiya2001" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=santhiya2001&show_icons=true&locale=en&theme=tokyonight" alt="santhiya2001" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=santhiya2001&theme=tokyonight" alt="santhiya2001" />
+</p>
+
+---
+
+## 🤝 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/santhiya2001" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-santhiya2001-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:sandymuthukutti@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-sandymuthukutti@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Debugging is like being the detective in a crime movie where you are also the murderer." 😄</i>
+</p>
