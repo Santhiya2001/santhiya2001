@@ -69,14 +69,14 @@
 ## 🔬 Projects
 
 ### 🔧 Embedded Linux BSP – Xilinx Zynq Platform
-> **Role:** BSP Engineer | iWave System Technologies
+> 
 - Developed and maintained Board Support Package for Zynq-based carrier cards
 - Customized U-Boot for SD/eMMC boot selection
 - Modified Device Tree nodes for custom PL (FPGA) peripherals
 - Built production Linux images using PetaLinux with custom packages
 
 ### 🔧 GPIO & Reset Controller Driver Debugging
-> **Role:** Embedded Linux Developer | iWave System Technologies
+>
 - Resolved GPIO controller initialization failures during kernel boot
 - Added reset sequence in driver to fix board hang at U-Boot stage
 - Validated fix across multiple board revisions using UART debug logs
